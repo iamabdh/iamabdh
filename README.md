@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img src="https://data.whicdn.com/images/327824179/original.gif" align="center" width="100%"  />
+
 
 ![iamabdh's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamabdh)
 
